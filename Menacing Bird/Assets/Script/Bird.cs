@@ -20,7 +20,7 @@ public class Bird : MonoBehaviour
     private bool _flagDestroy = false;
 
     // Start is called before the first frame update
-    void Start()
+    protected void Start()
     {
         Rigidbody.bodyType = RigidbodyType2D.Kinematic;
         Collider.enabled = false;

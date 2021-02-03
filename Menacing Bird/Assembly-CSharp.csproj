@@ -66,6 +66,7 @@
   <ItemGroup>
     <Compile Include="Assets\Script\Bird.cs" />
     <Compile Include="Assets\Script\BlackBird.cs" />
+    <Compile Include="Assets\Script\BlastRadius.cs" />
     <Compile Include="Assets\Script\Destroyer.cs" />
     <Compile Include="Assets\Script\Enemy.cs" />
     <Compile Include="Assets\Script\GameController.cs" />
