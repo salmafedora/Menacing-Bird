@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{687E5464-2123-898F-2E2A-1EB9CDE57F72}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/BlastRadius.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/BlackBird.cs">
     <Files>
       <File FileName="Assets/Script/SlingShooter.cs" Line="31" Column="1" />
       <File FileName="Assets/Script/Bird.cs" Line="23" Column="15" />
@@ -17,7 +17,7 @@
           <Node name="Menacing Bird" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="Script" expanded="True">
-                <Node name="BlastRadius.cs" selected="True" />
+                <Node name="BlackBird.cs" selected="True" />
               </Node>
             </Node>
           </Node>
