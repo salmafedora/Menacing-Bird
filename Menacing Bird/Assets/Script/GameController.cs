@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class GameController : MonoBehaviour
 {
@@ -10,6 +11,8 @@ public class GameController : MonoBehaviour
     public List<Enemy> Enemies;
     private Bird _shotBird;
     public BoxCollider2D TapCollider;
+
+    public string NextAreaToLoad;
 
     private bool _isGameEnded = false;
 
@@ -66,6 +69,7 @@ public class GameController : MonoBehaviour
         if(Enemies.Count == 0)
         {
             _isGameEnded = true;
+            SceneManager.LoadScene(NextAreaToLoad);
         }
     }
 
