@@ -1,0 +1,45 @@
+# =============== #
+# Unity generated #
+# =============== #
+Menacing Bird/[Tt]emp/
+Menacing Bird/[Oo]bj/
+Menacing Bird/[Bb]uild
+Menacing Bird/[Bb]uilds/
+Menacing Bird/[Ll]ibrary/
+Menacing Bird/sysinfo.txt
+Menacing Bird/*.stackdump
+Menacing Bird/Assets/AssetStoreTools*
+Menacing Bird/*.apk
+Menacing Bird/*.unitypackage
+ 
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+Menacing Bird/[Ee]xported[Oo]bj/
+Menacing Bird/.vs/
+Menacing Bird/*.userprefs
+Menacing Bird/*.csproj
+Menacing Bird/*.pidb
+Menacing Bird/*.pidb.meta
+Menacing Bird/*.suo
+Menacing Bird/*.sln*
+Menacing Bird/*.user
+Menacing Bird/*.unityproj
+Menacing Bird/*.booproj
+Menacing Bird/.consulo/
+Menacing Bird/*.tmp
+Menacing Bird/*.svd
+ 
+# ============ #
+# OS generated #
+# ============ #
+Menacing Bird/.DS_Store*
+Menacing Bird/._*
+Menacing Bird/.Spotlight-V100
+Menacing Bird/.Trashes
+Menacing Bird/Icon?
+Menacing Bird/ehthumbs.db
+Menacing Bird/[Tt]humbs.db
+Menacing Bird/[Dd]esktop.ini
+Menacing Bird/Corridor/Library/ShaderCache/
+Menacing Bird/Corridor/Library/metadata/
